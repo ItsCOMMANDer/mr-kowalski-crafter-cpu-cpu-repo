@@ -17,7 +17,8 @@ This Document uses Terms wich are not common Acronyms or Terms, used to describe
 
 **Table 1 - Meaning of Document Specific abbreviations**
 
-|**abbreviations**|**Full Meaning**|
+|**Abbreviations**|**Full Meaning**|
+|-----------------|----------------|
 |Idx              | Index          |
 |Reg              | Register       |
 
