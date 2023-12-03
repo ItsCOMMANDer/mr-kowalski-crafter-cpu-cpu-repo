@@ -11,7 +11,7 @@ The CPU has 2 main design goals.
 
 ### 1.2 Common acronyms
 
-This document uses some acronyms wich are needed to understand this document and may be used often wich will be listed below (See [Table of Acronyms](#table-of-acronyms))
+This document uses some acronyms wich are needed to understand this document and may be used often wich will be listed below (See [Table 1 - Full Meaning of Acronyms](#table-of-acronyms))
 
 
 <div id="table-of-acronyms" />
